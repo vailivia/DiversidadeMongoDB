@@ -1,0 +1,165 @@
+[{
+  "_id": {
+    "$oid": "68a885b737f480eb7e1e96cc"
+  },
+  "titulo": "Treinamento de Liderança Inclusiva",
+  "data": "2025-09-15",
+  "colaboradores_participantes": [
+    "João Silva",
+    "Maria Oliveira",
+    "Pedro Santos",
+    "Ana Souza"
+  ],
+  "instrutor": "Fernanda Costa",
+  "feedback": {
+    "João Silva": "Conteúdo relevante e aplicável",
+    "Maria Oliveira": "Ajudou a refletir sobre minhas práticas de liderança",
+    "Pedro Santos": "Ótima dinâmica de grupo"
+  }
+},
+{
+  "_id": {
+    "$oid": "68a885b737f480eb7e1e96cd"
+  },
+  "titulo": "Palestras sobre Equidade de Gênero",
+  "data": "2025-10-20",
+  "colaboradores_participantes": [
+    "Carla Lima",
+    "Rafael Costa"
+  ],
+  "instrutor": "Juliana Pereira",
+  "feedback": {
+    "Carla Lima": "Informações muito importantes para o ambiente de trabalho",
+    "Rafael Costa": "Me fez repensar algumas posturas"
+  }
+},
+{
+  "_id": {
+    "$oid": "68a885b737f480eb7e1e96ce"
+  },
+  "titulo": "Sessão de Conscientização sobre Pessoas com Deficiência",
+  "data": "2025-11-05",
+  "colaboradores_participantes": [
+    "Amanda Fernandes",
+    "Lucas Martins",
+    "Beatriz Pereira"
+  ],
+  "instrutor": "Thiago Santos",
+  "feedback": {
+    "Amanda Fernandes": "Aprendi muito sobre acessibilidade",
+    "Lucas Martins": "Achei a abordagem muito sensível e instrutiva",
+    "Beatriz Pereira": "Perfeito, me senti muito representada"
+  }
+},
+{
+  "_id": {
+    "$oid": "68a885b737f480eb7e1e96cf"
+  },
+  "titulo": "Diálogos sobre Etnia e Racismo",
+  "data": "2025-12-02",
+  "colaboradores_participantes": [
+    "Gustavo Almeida",
+    "Helena Rocha"
+  ],
+  "instrutor": "Eduardo Guedes",
+  "feedback": {
+    "Gustavo Almeida": "Discussão necessária e bem conduzida",
+    "Helena Rocha": "Pontos de vista enriquecedores"
+  }
+},
+{
+  "_id": {
+    "$oid": "68a885b737f480eb7e1e96d0"
+  },
+  "titulo": "Introdução à Cultura Organizacional Inclusiva",
+  "data": "2026-01-10",
+  "colaboradores_participantes": [
+    "Ana Souza",
+    "João Silva"
+  ],
+  "instrutor": "Mariana Lima",
+  "feedback": {
+    "Ana Souza": "Excelente ponto de partida para o ano",
+    "João Silva": "Conteúdo fundamental para todos"
+  }
+},
+{
+  "_id": {
+    "$oid": "68a885b737f480eb7e1e96d1"
+  },
+  "titulo": "Treinamento para Combate ao Preconceito",
+  "data": "2026-02-18",
+  "colaboradores_participantes": [
+    "Maria Oliveira",
+    "Carla Lima"
+  ],
+  "instrutor": "Fernanda Costa",
+  "feedback": {
+    "Maria Oliveira": "Ajudou a identificar vieses inconscientes",
+    "Carla Lima": "Dinâmicas muito eficazes"
+  }
+},
+{
+  "_id": {
+    "$oid": "68a885b737f480eb7e1e96d2"
+  },
+  "titulo": "Webinar sobre Inclusão de Gêneros",
+  "data": "2026-03-08",
+  "colaboradores_participantes": [
+    "Rafael Costa",
+    "Beatriz Pereira"
+  ],
+  "instrutor": "Juliana Pereira",
+  "feedback": {
+    "Rafael Costa": "Abriu minha mente para novas perspectivas",
+    "Beatriz Pereira": "Material didático muito bom"
+  }
+},
+{
+  "_id": {
+    "$oid": "68a885b737f480eb7e1e96d3"
+  },
+  "titulo": "Workshop de Comunicação Inclusiva",
+  "data": "2026-04-22",
+  "colaboradores_participantes": [
+    "Pedro Santos",
+    "Amanda Fernandes"
+  ],
+  "instrutor": "Thiago Santos",
+  "feedback": {
+    "Pedro Santos": "Recomendo para todos os colegas",
+    "Amanda Fernandes": "Aprender a se comunicar melhor faz toda a diferença"
+  }
+},
+{
+  "_id": {
+    "$oid": "68a885b737f480eb7e1e96d4"
+  },
+  "titulo": "Encontro sobre Saúde Mental no Trabalho",
+  "data": "2026-05-15",
+  "colaboradores_participantes": [
+    "Lucas Martins",
+    "Gustavo Almeida"
+  ],
+  "instrutor": "Eduardo Guedes",
+  "feedback": {
+    "Lucas Martins": "Discussão leve e importante",
+    "Gustavo Almeida": "O instrutor foi incrível, muito acolhedor"
+  }
+},
+{
+  "_id": {
+    "$oid": "68a885b737f480eb7e1e96d5"
+  },
+  "titulo": "Workshop sobre Microagressões no Dia a Dia",
+  "data": "2026-06-30",
+  "colaboradores_participantes": [
+    "Helena Rocha",
+    "João Silva"
+  ],
+  "instrutor": "Mariana Lima",
+  "feedback": {
+    "Helena Rocha": "Conteúdo necessário, todos deveriam participar",
+    "João Silva": "Consegui identificar comportamentos que antes não percebia"
+  }
+}]

@@ -1,0 +1,120 @@
+[{
+  "_id": {
+    "$oid": "68a8857d37f480eb7e1e96c2"
+  },
+  "nome": "João Silva",
+  "idade": 30,
+  "genero": "Masculino",
+  "etnia": "Branca",
+  "cargo": "Desenvolvedor Pleno",
+  "pronome": "Ele/Dele",
+  "necessidades_especiais": "Nenhuma"
+},
+{
+  "_id": {
+    "$oid": "68a8857d37f480eb7e1e96c3"
+  },
+  "nome": "Maria Oliveira",
+  "idade": 42,
+  "genero": "Feminino",
+  "etnia": "Preta",
+  "cargo": "Gerente de Projetos",
+  "pronome": "Ela/Dela",
+  "necessidades_especiais": "Nenhuma"
+},
+{
+  "_id": {
+    "$oid": "68a8857d37f480eb7e1e96c4"
+  },
+  "nome": "Pedro Santos",
+  "idade": 55,
+  "genero": "Masculino",
+  "etnia": "Amarela",
+  "cargo": "Analista Financeiro Sênior",
+  "pronome": "Ele/Dele",
+  "necessidades_especiais": "Mobilidade reduzida (cadeira de rodas)"
+},
+{
+  "_id": {
+    "$oid": "68a8857d37f480eb7e1e96c5"
+  },
+  "nome": "Carla Lima",
+  "idade": 28,
+  "genero": "Feminino",
+  "etnia": "Indígena",
+  "cargo": "Especialista em Marketing Digital",
+  "pronome": "Ela/Dela",
+  "necessidades_especiais": "Nenhuma"
+},
+{
+  "_id": {
+    "$oid": "68a8857d37f480eb7e1e96c6"
+  },
+  "nome": "Rafael Costa",
+  "idade": 35,
+  "genero": "Masculino",
+  "etnia": "Parda",
+  "cargo": "Engenheiro de Software",
+  "pronome": "Ele/Dele",
+  "necessidades_especiais": "Surdez"
+},
+{
+  "_id": {
+    "$oid": "68a8857d37f480eb7e1e96c7"
+  },
+  "nome": "Amanda Fernandes",
+  "idade": 22,
+  "genero": "Feminino",
+  "etnia": "Branca",
+  "cargo": "Técnica de Suporte",
+  "pronome": "Ela/Dela",
+  "necessidades_especiais": "Nenhuma"
+},
+{
+  "_id": {
+    "$oid": "68a8857d37f480eb7e1e96c8"
+  },
+  "nome": "Lucas Martins",
+  "idade": 48,
+  "genero": "Masculino",
+  "etnia": "Preta",
+  "cargo": "Arquiteto de Soluções",
+  "pronome": "Ele/Dele",
+  "necessidades_especiais": "Nenhuma"
+},
+{
+  "_id": {
+    "$oid": "68a8857d37f480eb7e1e96c9"
+  },
+  "nome": "Beatriz Pereira",
+  "idade": 31,
+  "genero": "Feminino",
+  "etnia": "Parda",
+  "cargo": "Coordenadora de RH",
+  "pronome": "Ela/Dela",
+  "necessidades_especiais": "Autismo"
+},
+{
+  "_id": {
+    "$oid": "68a8857d37f480eb7e1e96cb"
+  },
+  "nome": "Helena Rocha",
+  "idade": 60,
+  "genero": "Feminino",
+  "etnia": "Amarela",
+  "cargo": "Consultora de Negócios",
+  "pronome": "Ela/Dela",
+  "necessidades_especiais": "Cegueira"
+},
+{
+  "_id": {
+    "$oid": "68a8c344e92ea1a7269f4ae7"
+  },
+  "nome": "Gabriela Alves",
+  "idade": 29,
+  "genero": "Feminino",
+  "etnia": "Parda",
+  "cargo": "Analista de Dados Pleno",
+  "pronome": "Ela/Dela",
+  "necessidades_especiais": "Nenhuma"
+}]

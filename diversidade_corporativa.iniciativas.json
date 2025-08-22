@@ -1,0 +1,110 @@
+[{
+  "_id": {
+    "$oid": "68a886f437f480eb7e1e96e4"
+  },
+  "nome": "Comitê de Acessibilidade",
+  "inicio": "2025-07-01",
+  "responsavel": "Equipe de Facilities",
+  "participantes": 12,
+  "impacto": "Redução de 50% nas queixas de acessibilidade",
+  "status": "Em andamento"
+},
+{
+  "_id": {
+    "$oid": "68a886f437f480eb7e1e96e5"
+  },
+  "nome": "Treinamento de Liderança Inclusiva",
+  "inicio": "2025-08-01",
+  "responsavel": "RH - Treinamento",
+  "participantes": 50,
+  "impacto": "Melhora de 30% na nota de engajamento em pesquisas internas",
+  "status": "Concluído"
+},
+{
+  "_id": {
+    "$oid": "68a886f437f480eb7e1e96e6"
+  },
+  "nome": "Grupo de Apoio para Neurodiversos",
+  "inicio": "2025-09-10",
+  "responsavel": "RH - Bem-estar",
+  "participantes": 15,
+  "impacto": "Aumento na sensação de pertencimento entre os participantes",
+  "status": "Em andamento"
+},
+{
+  "_id": {
+    "$oid": "68a886f437f480eb7e1e96e7"
+  },
+  "nome": "Censo de Diversidade e Inclusão",
+  "inicio": "2025-10-01",
+  "responsavel": "RH - Analytics",
+  "participantes": 300,
+  "impacto": "Identificação de gaps e oportunidades de melhoria",
+  "status": "Concluído com sucesso"
+},
+{
+  "_id": {
+    "$oid": "68a886f437f480eb7e1e96e8"
+  },
+  "nome": "Ciclo de Palestras sobre Saúde Mental",
+  "inicio": "2025-11-05",
+  "responsavel": "Recursos Humanos",
+  "participantes": 250,
+  "impacto": "Redução de 15% nos atestados por questões de saúde mental",
+  "status": "Concluído"
+},
+{
+  "_id": {
+    "$oid": "68a886f437f480eb7e1e96e9"
+  },
+  "nome": "Programa de Cotas para Pessoas com Deficiência",
+  "inicio": "2026-01-15",
+  "responsavel": "Recrutamento e Seleção",
+  "participantes": 5,
+  "impacto": "Contratação de 5 novos colaboradores",
+  "status": "Em andamento"
+},
+{
+  "_id": {
+    "$oid": "68a886f437f480eb7e1e96eb"
+  },
+  "nome": "Workshop de Comunicação Inclusiva",
+  "inicio": "2026-03-08",
+  "responsavel": "RH - Treinamento",
+  "participantes": 40,
+  "impacto": "Melhora na interação entre as equipes",
+  "status": "Concluído"
+},
+{
+  "_id": {
+    "$oid": "68a886f437f480eb7e1e96ec"
+  },
+  "nome": "Programa de Mentoria para Grupos Minorizados",
+  "inicio": "2026-04-01",
+  "responsavel": "RH - Diversidade",
+  "participantes": 20,
+  "impacto": "Aceleração do desenvolvimento profissional",
+  "status": "Em andamento"
+},
+{
+  "_id": {
+    "$oid": "68a886f437f480eb7e1e96ed"
+  },
+  "nome": "Semana da Conscientização sobre Diversidade",
+  "inicio": "2026-05-10",
+  "responsavel": "RH - Eventos",
+  "participantes": 350,
+  "impacto": "Aumento do engajamento em pautas de D&I",
+  "status": "Planejado"
+},
+{
+  "_id": {
+    "$oid": "68a8e3e40d006a495735c7aa"
+  },
+  "nome": "Semana da Conscientização sobre Diversidade",
+  "inicio": "2026-05-10",
+  "responsavel": "RH - Eventos",
+  "participantes": 350,
+  "impacto": "Aumento do engajamento em pautas de D&I",
+  "status": "Planejado"
+}]

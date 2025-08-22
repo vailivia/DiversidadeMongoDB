@@ -1,0 +1,120 @@
+[{
+  "_id": {
+    "$oid": "68a8865d37f480eb7e1e96d8"
+  },
+  "colaborador": "João Silva",
+  "periodo": "2025-08",
+  "nota_engajamento": 8,
+  "comentarios": "As palestras sobre diversidade têm sido bem informativas, mas sinto falta de ações mais práticas no dia a dia.",
+  "sugestoes": [
+    "Criar um comitê de diversidade e inclusão"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68a8865d37f480eb7e1e96d9"
+  },
+  "colaborador": "Maria Oliveira",
+  "periodo": "2025-08",
+  "nota_engajamento": 10,
+  "comentarios": "A abertura para discutir temas sensíveis como racismo na empresa foi um grande avanço. Sinto que a cultura está mudando para melhor.",
+  "sugestoes": [
+    "Continuar promovendo esses diálogos"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68a8865d37f480eb7e1e96da"
+  },
+  "colaborador": "Pedro Santos",
+  "periodo": "2025-09",
+  "nota_engajamento": 8,
+  "comentarios": "A acessibilidade no escritório melhorou, agora consigo me deslocar com mais facilidade. O treinamento para a equipe sobre mobilidade reduzida também foi positivo.",
+  "sugestoes": [
+    "Instalar mais rampas de acesso"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68a8865d37f480eb7e1e96db"
+  },
+  "colaborador": "Carla Lima",
+  "periodo": "2025-09",
+  "nota_engajamento": 9,
+  "comentarios": "Me senti muito à vontade para expressar minhas opiniões. A empresa está realmente aberta à diversidade de etnias.",
+  "sugestoes": [
+    "Campanhas de conscientização sobre diferentes culturas"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68a8865d37f480eb7e1e96dc"
+  },
+  "colaborador": "Rafael Costa",
+  "periodo": "2025-10",
+  "nota_engajamento": 7,
+  "comentarios": "A comunicação com a equipe melhorou bastante após a sessão sobre surdez. Eles se esforçam para garantir que eu entenda tudo.",
+  "sugestoes": [
+    "Disponibilizar intérpretes de libras em reuniões importantes"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68a8865d37f480eb7e1e96dd"
+  },
+  "colaborador": "Amanda Fernandes",
+  "periodo": "2025-10",
+  "nota_engajamento": 8,
+  "comentarios": "Acho importante a iniciativa de inclusão. Sinto que todos têm a chance de ser ouvidos, independentemente de suas diferenças.",
+  "sugestoes": [
+    "Mais workshops sobre vieses inconscientes"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68a8865d37f480eb7e1e96de"
+  },
+  "colaborador": "Lucas Martins",
+  "periodo": "2025-11",
+  "nota_engajamento": 9,
+  "comentarios": "A empresa se preocupa em criar um ambiente seguro e acolhedor. Me sinto respeitado e valorizado como profissional.",
+  "sugestoes": [
+    "Eventos de networking com foco em diversidade"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68a8865d37f480eb7e1e96df"
+  },
+  "colaborador": "Beatriz Pereira",
+  "periodo": "2025-11",
+  "nota_engajamento": 10,
+  "comentarios": "A sensibilidade da equipe com meu autismo é notável. Me sinto apoiada e entendi que posso pedir ajuda sem ser julgada.",
+  "sugestoes": [
+    "Mais treinamentos sobre neurodiversidade"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68a8865d37f480eb7e1e96e0"
+  },
+  "colaborador": "Gustavo Almeida",
+  "periodo": "2025-12",
+  "nota_engajamento": 9,
+  "comentarios": "É muito bom trabalhar em um lugar onde me sinto confortável com minha identidade de gênero. O uso de pronomes corretos é algo que faz a diferença.",
+  "sugestoes": [
+    "Incentivar mais a inclusão de pessoas não-binárias em cargos de liderança"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68a8cd08cd9b052793d9a900"
+  },
+  "colaborador": "Gustavo Almeida",
+  "periodo": "2025-12",
+  "nota_engajamento": 9,
+  "comentarios": "É muito bom trabalhar em um lugar onde me sinto confortável com minha identidade de gênero.",
+  "sugestoes": [
+    "Incentivar mais a inclusão de pessoas não-binárias em cargos de liderança"
+  ]
+}]

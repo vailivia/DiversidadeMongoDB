@@ -1,0 +1,154 @@
+[{
+  "_id": {
+    "$oid": "68a88a6737f480eb7e1e96fa"
+  },
+  "ano": 2025,
+  "mes": 8,
+  "indicadores": {
+    "percentual_mulheres": 43,
+    "percentual_pessoas_negras": 19,
+    "participacao_treinamentos": 80,
+    "satisfacao_media": 8.5
+  },
+  "observacoes": "Aumento significativo na participação nos workshops sobre equidade de gênero."
+},
+{
+  "_id": {
+    "$oid": "68a88a6737f480eb7e1e96fb"
+  },
+  "ano": 2025,
+  "mes": 9,
+  "indicadores": {
+    "percentual_mulheres": 43,
+    "percentual_pessoas_negras": 19,
+    "participacao_treinamentos": 78,
+    "satisfacao_media": 8.3
+  },
+  "observacoes": "O programa de mentoria para grupos minorizados começou a impactar a percepção de inclusão."
+},
+{
+  "_id": {
+    "$oid": "68a88a6737f480eb7e1e96fc"
+  },
+  "ano": 2025,
+  "mes": 10,
+  "indicadores": {
+    "percentual_mulheres": 44,
+    "percentual_pessoas_negras": 20,
+    "participacao_treinamentos": 85,
+    "satisfacao_media": 8.7
+  },
+  "observacoes": "Lançamento do Censo de D&I, gerando um pico de engajamento."
+},
+{
+  "_id": {
+    "$oid": "68a88a6737f480eb7e1e96fd"
+  },
+  "ano": 2025,
+  "mes": 11,
+  "indicadores": {
+    "percentual_mulheres": 44,
+    "percentual_pessoas_negras": 20,
+    "participacao_treinamentos": 70,
+    "satisfacao_media": 8.4
+  },
+  "observacoes": "Participação em treinamento sobre saúde mental teve alta procura, mas a média geral de participação em outros eventos diminuiu ligeiramente."
+},
+{
+  "_id": {
+    "$oid": "68a88a6737f480eb7e1e96fe"
+  },
+  "ano": 2025,
+  "mes": 12,
+  "indicadores": {
+    "percentual_mulheres": 46,
+    "percentual_pessoas_negras": 21,
+    "participacao_treinamentos": 75,
+    "satisfacao_media": 8.6
+  },
+  "observacoes": "Houve um aumento no número de colaboradores negros após a campanha de recrutamento inclusivo."
+},
+{
+  "_id": {
+    "$oid": "68a88a6737f480eb7e1e96ff"
+  },
+  "ano": 2026,
+  "mes": 1,
+  "indicadores": {
+    "percentual_mulheres": 45,
+    "percentual_pessoas_negras": 21,
+    "participacao_treinamentos": 72,
+    "satisfacao_media": 8.5
+  },
+  "observacoes": "Os novos programas de desenvolvimento profissional estão sendo bem avaliados."
+},
+{
+  "_id": {
+    "$oid": "68a88a6737f480eb7e1e9700"
+  },
+  "ano": 2026,
+  "mes": 2,
+  "indicadores": {
+    "percentual_mulheres": 46,
+    "percentual_pessoas_negras": 22,
+    "participacao_treinamentos": 79,
+    "satisfacao_media": 8.8
+  },
+  "observacoes": "Início do programa de cotas para pessoas com deficiência, com impacto positivo na percepção de inclusão."
+},
+{
+  "_id": {
+    "$oid": "68a88a6737f480eb7e1e9701"
+  },
+  "ano": 2026,
+  "mes": 3,
+  "indicadores": {
+    "percentual_mulheres": 46,
+    "percentual_pessoas_negras": 22,
+    "participacao_treinamentos": 81,
+    "satisfacao_media": 8.9
+  },
+  "observacoes": "Aumento no índice de satisfação após o Workshop de Comunicação Inclusiva."
+},
+{
+  "_id": {
+    "$oid": "68a88a6737f480eb7e1e9702"
+  },
+  "ano": 2026,
+  "mes": 4,
+  "indicadores": {
+    "percentual_mulheres": 47,
+    "percentual_pessoas_negras": 23,
+    "participacao_treinamentos": 83,
+    "satisfacao_media": 9
+  },
+  "observacoes": "O programa de mentoria para grupos minorizados mostrou resultados promissores, com um aumento na retenção desses talentos."
+},
+{
+  "_id": {
+    "$oid": "68a88a6737f480eb7e1e9703"
+  },
+  "ano": 2026,
+  "mes": 5,
+  "indicadores": {
+    "percentual_mulheres": 47,
+    "percentual_pessoas_negras": 24,
+    "participacao_treinamentos": 88,
+    "satisfacao_media": 9.2
+  },
+  "observacoes": "A Semana da Conscientização sobre Diversidade foi um sucesso, com alta participação e excelente feedback."
+},
+{
+  "_id": {
+    "$oid": "68a8e4b1d91bfec0b881e2c4"
+  },
+  "ano": 2026,
+  "mes": 6,
+  "indicadores": {
+    "percentual_mulheres": 48,
+    "percentual_pessoas_negras": 25,
+    "participacao_treinamentos": 90,
+    "satisfacao_media": 9.3
+  },
+  "observacoes": "Recorde de participação nos treinamentos e satisfação geral."
+}]
